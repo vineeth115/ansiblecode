@@ -4,6 +4,6 @@
   gather_facts: false
   tasks:
   - name: set timezone to Asia/Kolkata
-    command: 'timedatactl set-timezone Asia/Kolkata'
+    command: 'timedatectl set-timezone Asia/Kolkata'
    
     
